@@ -1,7 +1,7 @@
 # Invoice-Notification-System
 A php based invoice notification system
 
-#How to Install:
+# How to Install:
 
     Requirments:
         1. Php
@@ -14,7 +14,7 @@ A php based invoice notification system
         Step 3: Copy the folder to the server and run index.php in web browser.
 
 
-How to Run:
+# How to Run:
 
     Step 1: [SignUp] Register 2 or more users at index.html
 
